@@ -5,8 +5,3 @@
 
 ## Учет развития навыков
 https://github.com/Cothn/portfolio/blob/main/skills_progress/skills_progress_from_2023.md
-
-## План развития
-
-## Достижения
-https://github.com/Cothn/portfolio/blob/main/achivments/Achivment_2023.md
